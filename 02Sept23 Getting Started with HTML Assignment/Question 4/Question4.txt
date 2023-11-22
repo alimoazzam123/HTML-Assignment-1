@@ -1,0 +1,25 @@
+Q4 Write a short note on Tag and element with an example?
+
+solution:
+  (1)Tag
+  =>HTML tags are like keywords which defines that how web browser will format 
+    and display the content.
+  =>With the help of tags, a web browser can distinguish between an HTML content
+    and a simple content. 
+  =>HTML tags contain three main parts:
+    opening tag, content and closing tag. But some HTML tags are unclosed tags.
+  =>HTML tags are used to create HTML documents and render their properties. 
+    Each HTML tags have different properties.
+  =>All HTML tags must enclosed within < > these brackets.If you have used an 
+    open tag <tag>, then you must use a close tag </tag> (except some tags)
+  =>syntax:-<tag> content </tag> 
+  =>example:-<p> Paragraph Tag </p>
+  (2)Element
+  =>An HTML file is made of elements. These elements are responsible for creating 
+    web pages and define content in that webpage. An element in HTML usually consist 
+    of a start tag <tag name>, close tag </tag name> and content inserted between them.
+  =>Technically, an element is a collection of start tag, attributes, end tag, content between them.
+  =>example:-<p> Hello world!!! </p>   
+
+
+   
